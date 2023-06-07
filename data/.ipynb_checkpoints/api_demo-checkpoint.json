@@ -1,0 +1,80 @@
+{
+    "name": {
+        "text": "AsiaBerlin Summit 2023",
+        "html": "AsiaBerlin Summit 2023"
+    },
+    "description": {
+        "text": "AsiaBerlin Summit 2023 - Innovating now for a positive future",
+        "html": "AsiaBerlin Summit 2023 - Innovating now for a positive future"
+    },
+    "url": "https://www.eventbrite.de/e/asiaberlin-summit-2023-tickets-537155806477",
+    "vanity_url": "https://AsiaBerlinSummit-2023.eventbrite.de",
+    "start": {
+        "timezone": "Europe/Berlin",
+        "local": "2023-06-12T09:00:00",
+        "utc": "2023-06-12T07:00:00Z"
+    },
+    "end": {
+        "timezone": "Europe/Berlin",
+        "local": "2023-06-13T20:00:00",
+        "utc": "2023-06-13T18:00:00Z"
+    },
+    "organization_id": "1384411293453",
+    "created": "2023-02-07T10:16:27Z",
+    "changed": "2023-06-06T08:48:24Z",
+    "published": "2023-02-07T10:40:24Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "USD",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 900,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "AsiaBerlin Summit 2023 - Innovating now for a positive future",
+    "facebook_event_id": null,
+    "logo_id": "455505889",
+    "organizer_id": "60406384353",
+    "venue_id": "137236309",
+    "category_id": "112",
+    "subcategory_id": "12009",
+    "format_id": "1",
+    "id": "537155806477",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/537155806477/",
+    "is_externally_ticketed": false,
+    "logo": {
+        "crop_mask": {
+            "top_left": {
+                "x": 0,
+                "y": 0
+            },
+            "width": 9000,
+            "height": 4500
+        },
+        "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F455505889%2F1384410638903%2F1%2Foriginal.20230227-090838?auto=format%2Ccompress&q=75&sharp=10&s=faea94a6a9cb102f9c199e0c434c1bba",
+            "width": 9000,
+            "height": 4500
+        },
+        "id": "455505889",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F455505889%2F1384410638903%2F1%2Foriginal.20230227-090838?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=5faabd37563bb4cad8b6c72f474295cc",
+        "aspect_ratio": "2",
+        "edge_color": "#796484",
+        "edge_color_set": true
+    }
+}
