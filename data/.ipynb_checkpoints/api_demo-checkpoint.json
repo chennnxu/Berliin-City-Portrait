@@ -11,8 +11,8 @@
     "vanity_url": "https://AsiaBerlinSummit-2023.eventbrite.de",
     "start": {
         "timezone": "Europe/Berlin",
-        "local": "2023-06-12T09:00:00",
-        "utc": "2023-06-12T07:00:00Z"
+        "local": "2023-06-12T10:00:00",
+        "utc": "2023-06-12T08:00:00Z"
     },
     "end": {
         "timezone": "Europe/Berlin",
@@ -21,11 +21,11 @@
     },
     "organization_id": "1384411293453",
     "created": "2023-02-07T10:16:27Z",
-    "changed": "2023-06-06T08:48:24Z",
+    "changed": "2023-06-14T10:40:07Z",
     "published": "2023-02-07T10:40:24Z",
     "capacity": null,
     "capacity_is_custom": null,
-    "status": "live",
+    "status": "completed",
     "currency": "USD",
     "listed": true,
     "shareable": true,
@@ -48,7 +48,7 @@
     "version": null,
     "summary": "AsiaBerlin Summit 2023 - Innovating now for a positive future",
     "facebook_event_id": null,
-    "logo_id": "455505889",
+    "logo_id": "530949779",
     "organizer_id": "60406384353",
     "venue_id": "137236309",
     "category_id": "112",
@@ -60,21 +60,21 @@
     "logo": {
         "crop_mask": {
             "top_left": {
-                "x": 0,
-                "y": 0
+                "x": 1,
+                "y": 36
             },
-            "width": 9000,
-            "height": 4500
+            "width": 2338,
+            "height": 1169
         },
         "original": {
-            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F455505889%2F1384410638903%2F1%2Foriginal.20230227-090838?auto=format%2Ccompress&q=75&sharp=10&s=faea94a6a9cb102f9c199e0c434c1bba",
-            "width": 9000,
-            "height": 4500
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F530949779%2F1384410638903%2F1%2Foriginal.20230607-091633?auto=format%2Ccompress&q=75&sharp=10&s=d510b19df300f3d1760148284a0074f0",
+            "width": 2339,
+            "height": 1654
         },
-        "id": "455505889",
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F455505889%2F1384410638903%2F1%2Foriginal.20230227-090838?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=5faabd37563bb4cad8b6c72f474295cc",
+        "id": "530949779",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F530949779%2F1384410638903%2F1%2Foriginal.20230607-091633?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C36%2C2338%2C1169&s=45afc832fabac99e205dc21d85f67b4e",
         "aspect_ratio": "2",
-        "edge_color": "#796484",
+        "edge_color": "#9e8c8a",
         "edge_color_set": true
     }
 }
