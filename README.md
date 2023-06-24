@@ -1,3 +1,3 @@
-# Unveil-City-Vibrant with Eventbrite
+# Unveiling-City-Vibrance with Eventbrite
 
 ### Introduction
