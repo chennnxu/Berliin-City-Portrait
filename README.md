@@ -38,14 +38,14 @@ The data provided is a snapshot, as Eventbrite does not retain past events on it
 #### Category segmentation
 
 <div align = "center">
-<img src="/assets/img/eventbrite/category.png" width = "500" alt="category" align=center />
+<img src="https://github.com/chennnxu/chennnxu.github.io/blob/5bf0f4e8e7b3441b50259f1d790e98288533a088/assets/img/eventbrite/category.png" width = "500" alt="category" align=center />
 </div>
 
 #### Sentiment segmentation
 
 First, create some word clouds to see the most frequently used words in the event description
 <div align = "center">
-<img src="/assets/img/eventbrite/wordcloud.png" width = "500" alt="category" align=center />
+<img src="https://github.com/chennnxu/chennnxu.github.io/blob/5bf0f4e8e7b3441b50259f1d790e98288533a088/assets/img/eventbrite/wordcloud.png" width = "500" alt="category" align=center />
 </div>
 
 **Will be continued when suitable data is available:D**
